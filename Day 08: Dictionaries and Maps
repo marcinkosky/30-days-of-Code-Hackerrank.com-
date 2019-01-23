@@ -1,3 +1,5 @@
+#!/bin/python3
+
 """"
 Task
 Given [n] names and phone numbers, assemble a phone book that maps friends' names
