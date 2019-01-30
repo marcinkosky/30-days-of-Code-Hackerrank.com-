@@ -1,5 +1,4 @@
 #!/bin/python3
 input_string = input()
 
-# Print a string literal saying "Hello, World." to stdout.
-print('Hello, World.\n' + input_string)
+print('Hello, World.\n'.format(input_string))
