@@ -12,6 +12,7 @@ or Factorial, you will get a score of 0.
 
 n = int(input())
 
+
 def factorial(n):
     if n == 0:
         return 1
